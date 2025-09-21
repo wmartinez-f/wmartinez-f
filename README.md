@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;Competitive+Programmer;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
----
 
+---
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
