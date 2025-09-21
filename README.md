@@ -58,6 +58,18 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=wmartinez-f&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/wmartinez-f)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=wmartinez-f&theme=material-palenight)](https://github.com/wmartinez-f)
+</div>
+
+----
+
+
 
 
 
