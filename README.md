@@ -27,7 +27,7 @@
 <br>
 
 
-<p align="center">
+
    ## 🛠 &nbsp;My Skills Include
    
    #### 🔧 Languages
@@ -51,7 +51,7 @@
    
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-</p>
+
 
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
