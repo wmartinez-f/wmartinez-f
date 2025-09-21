@@ -70,10 +70,9 @@
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/wmartinez-f/wmartinez-f/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/wmartinez-f/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
 
 
 
